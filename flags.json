@@ -1,0 +1,12 @@
+{
+  "first-flag": {
+    "percentage": 100,
+    "true": true,
+    "false": false,
+    "default": false,
+    "trackEvents": true,
+    "rule": "",
+    "version": "1",
+    "disable": false
+  }
+}
